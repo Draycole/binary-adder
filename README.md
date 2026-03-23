@@ -62,3 +62,8 @@ binary-adder/
 
 ---
 
+### System Flow Diagram
+![system flow diagram](</docs/system_flow.png>)
+
+---
+
