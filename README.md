@@ -1,2 +1,2 @@
 # Human Interface ALU
-HI-ALU is an embedded binary addition interface implemented in Embedded C. Users input binary digits using pushbuttons, and the result is visualized in real-time on an LED output bus.
+HI-ALU is a bare-metal embedded system built on the RP2040 that enables interactive entry and processing of binary operands using physical buttons and LED register visualization. The system supports addition and subtraction operations, overflow detection, auditory feedback, and modular firmware architecture implemented fully in C without high-level abstractions.
