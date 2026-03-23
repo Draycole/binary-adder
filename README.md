@@ -35,8 +35,9 @@ binary-adder/
 │   └── gpio_driver.h
 │
 ├── docs/
-│   ├── architecture.png
-│   ├── state_flow.png
+│   ├── architecture.md
+│   ├── system_conceptual_flow.png
+│   ├── system_flow.png
 │   └── wiring.png
 │
 └── README.md
