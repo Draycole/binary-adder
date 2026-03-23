@@ -53,6 +53,12 @@ binary-adder/
 
 ---
 
+### System Operations
+
+![conceptual diagram](</docs/system_conceptual_flow.png>)
+
+---
+
 ### Hardware:
 - RP2040 Microcontroller
 - 8 Red LEDs (Binary Register)
