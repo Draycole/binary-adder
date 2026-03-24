@@ -6,3 +6,9 @@ The Binary ALU Interface (BAI) is a bare-metal embedded arithmetic system built 
 
 A finite state machine coordinates operand entry, operation selection, evaluation, and result display. Overflow conditions are detected and indicated through a dedicated status LED and auditory feedback.
 
+---
+
+## 2. Hardware Block Diagram
+![hardware block diagram](</hardware_block_diagram.svg>)
+
+---
