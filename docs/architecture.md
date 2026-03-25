@@ -9,6 +9,6 @@ A finite state machine coordinates operand entry, operation selection, evaluatio
 ---
 
 ## 2. Hardware Block Diagram
-![hardware block diagram](</hardware_block_diagram.svg>)
+![hardware block diagram](</hardware_block_diagram.png>)
 
 ---
