@@ -12,3 +12,5 @@ A finite state machine coordinates operand entry, operation selection, evaluatio
 ![hardware block diagram](</hardware_block_diagram.png>)
 
 ---
+
+## 3. Firmware Architecture Diagram
