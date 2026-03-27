@@ -14,3 +14,5 @@ A finite state machine coordinates operand entry, operation selection, evaluatio
 ---
 
 ## 3. Firmware Architecture Diagram
+
+This is the architecture firmware diagram from the system application layer.
